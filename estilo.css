@@ -1,0 +1,43 @@
+body {
+    background-color:  #eeeeee;
+}
+ 
+header {
+    background-color: 333333;
+    color: #ffffff
+    text-align: center;
+}
+
+nav{
+    background-color: 444444;
+}
+
+ nav ul{
+    list-style: none;
+
+ }
+
+ nav ul li { 
+    display: inline;
+ }
+
+ a{
+    text-decoration: none;
+    color: #ffffff
+ }
+ 
+h2{
+    background-color: 333333;
+
+}
+ article{
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+ } 
+
+footer {
+   background-color: 333333;
+   color: #ffffff;
+   text-align: center;
+}
+
